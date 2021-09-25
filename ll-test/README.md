@@ -1,4 +1,4 @@
-A project to determine whether animes of a project is better than the other using 2-tailed hypothesis testing with mean score from MAL, for each pair of projects in the following list:
+For each pair of projects in the following list, determine whether animes from that project are better than the others using 2-tailed hypothesis testing with mean score from MAL:
 ```python 
 group_ids = {
     "Love Live!": [15051, 24997, 19111],
