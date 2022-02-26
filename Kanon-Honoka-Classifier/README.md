@@ -3,7 +3,7 @@
 ## Introduction
 This is a simple project using MobileNet v2 to predict whether an image is of Shibuya Kanon or Kousaka Honoka.  
 Trained using weights from `imagenet` for initialization.  
-Trained on around carefully selected images of each character (around 3000 for Shibuya Kanon and 3700 for Kousaka Honoka).
+Trained on carefully selected images of each character (around 3000 for Shibuya Kanon and 3700 for Kousaka Honoka).
 
 ## Training result
 - Train accuracy: 0.93
