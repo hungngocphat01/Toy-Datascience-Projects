@@ -5,6 +5,9 @@ This is a simple project using MobileNet v2 to predict whether an image is of Sh
 Trained using weights from `imagenet` for initialization.  
 Trained on around carefully selected images of each character (around 3000 for Shibuya Kanon and 3700 for Kousaka Honoka).
 
+![](demo.jpg)  
+Prediction result with images in a different distribution than in the train/dev set.
+
 ## Training result
 - Train accuracy: 0.93
 - Test accuracy: 0.91
